@@ -9,9 +9,10 @@ use App\User;
 class UserController extends Controller
 {
     //
-    public function index(){
+    public function first(){
 
 
-        return view("user/index");
+        return view("user/first");
     }
+//
 }
