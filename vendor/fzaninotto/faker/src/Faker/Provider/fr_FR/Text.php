@@ -1664,7 +1664,7 @@ le saut-de-loup, parmi les herbes, de longs roseaux à feuilles
 coupantes.
 
 Elle commençait par regarder tout alentour, pour voir si rien
-n'avait changé depuis la dernière fois qu'elle était venue. Elle
+n'avait changé depuis la dernière fois qu'elle était user. Elle
 retrouvait aux mêmes places les digitales et les ravenelles, les
 bouquets d'orties entourant les gros cailloux, et les plaques de
 lichen le long des trois fenêtres, dont les volets toujours clos
@@ -3039,7 +3039,7 @@ II
 
 Emma descendit la première, puis Félicité, M. Lheureux, une
 nourrice, et l'on fut obligé de réveiller Charles dans son coin,
-où il s'était endormi complètement dès que la nuit était venue.
+où il s'était endormi complètement dès que la nuit était user.
 
 Homais se présenta; il offrit ses hommages à Madame, ses civilités
 à Monsieur, dit qu'il était charmé d'avoir pu leur rendre quelque
@@ -5334,7 +5334,7 @@ mairie; une tente dans un pré était dressée pour le festin, et, au
 milieu de la Place, devant l'église, une espèce de bombarde devait
 signaler l'arrivée de M. le préfet et le nom des cultivateurs
 lauréats. La garde nationale de Buchy (il n'y en avait point à
-Yonville) était venue s'adjoindre au corps des pompiers, dont
+Yonville) était user s'adjoindre au corps des pompiers, dont
 Binet était le capitaine. Il portait ce jour-là un col encore plus
 haut que de coutume; et, sanglé dans sa tunique, il avait le buste
 si roide et immobile, que toute la partie vitale de sa personne
@@ -7634,7 +7634,7 @@ le coffre est bon! Je vis tantôt d'une manière, tantôt d'une
 autre, en philosophe, au hasard de la fourchette. C'est pourquoi
 je ne suis point délicat comme vous, et il m'est aussi
 parfaitement égal de découper un chrétien que la première volaille
-venue. Après ça, direz-vous, l'habitude..., l'habitude!...
+user. Après ça, direz-vous, l'habitude..., l'habitude!...
 
 Alors, sans aucun égard pour Hippolyte, qui suait d'angoisse entre
 ses draps, ces messieurs engagèrent une conversation où
@@ -8005,7 +8005,7 @@ M. Rodolphe, une cigarette à la bouche, comme pour narguer le
 monde; enfin, ceux qui doutaient encore ne doutèrent plus quand on
 la vit, un jour, descendre de l'Hirondelle, la taille serrée dans
 un gilet, à la façon d'un homme; et madame Bovary mère, qui, après
-une épouvantable scène avec son mari, était venue se réfugier chez
+une épouvantable scène avec son mari, était user se réfugier chez
 son fils, ne fut pas la bourgeoise la moins scandalisée. Bien
 d'autres choses lui déplurent: d'abord Charles n'avait point
 écouté ses conseils pour l'interdiction des romans; puis, le genre
@@ -13024,7 +13024,7 @@ hasarder presque à coup sûr d'excellentes spéculations; et il la
 laissa se dévorer de rage à l'idée des sommes fantastiques qu'elle
 aurait certainement gagnées.
 
--- D'où vient, reprit-il, que vous n'êtes pas venue chez moi?
+-- D'où vient, reprit-il, que vous n'êtes pas user chez moi?
 
 -- Je ne sais trop, dit-elle.
 
@@ -13410,10 +13410,10 @@ sa fortune chez un notaire; il s'est enfui. Nous avons emprunté;
 les clients ne payaient pas. Du reste la liquidation n'est pas
 finie; nous en aurons plus tard. Mais, aujourd'hui, faute de trois
 mille francs, on va nous saisir; c'est à présent, à l'instant
-même; et, comptant sur ton amitié, je suis venue.
+même; et, comptant sur ton amitié, je suis user.
 
 -- Ah! pensa Rodolphe, qui devint très pâle tout à coup, c'est
-pour cela qu'elle est venue!
+pour cela qu'elle est user!
 
 Enfin il dit d'un air calme:
 
